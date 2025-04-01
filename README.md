@@ -5,7 +5,10 @@ Hi there and welcome to my GitHub profile!
 My name is Zakhar, pronounced ZA as in ZARA, KH as in Khan and AR as in Arizona (the short is just Zak). I also go by the nicknames _3elDU_ and _petafloppa_.<br>
 I am a self-taught Web Developer, occasionally dropping into embedded or game development.
 
-Check out my [personal website](https://petafloppa.cc/) for more info
+# Links
+
+- [Blog](https://blog.petafloppa.cc)
+- [Personal website](https://petafloppa.cc)
 
 # Projects
 
